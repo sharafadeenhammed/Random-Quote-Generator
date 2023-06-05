@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+}
+
+h1{
+    color: #333;
+}
+
+button{
+    padding: 10px 20px;
+    background-color: #4caf50;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+}
+
+#quote {
+    font-style: italic;
+    font-size: 25px;
+    margin-top: 25px;
+}
